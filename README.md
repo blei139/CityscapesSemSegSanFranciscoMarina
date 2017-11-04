@@ -9,3 +9,5 @@ Generated semantic segmentation videoes for the first time.  I will improve on t
 Here is the youtube link:
 
 https://youtu.be/wCZ7FdB50ew
+
+https://youtu.be/BfEhLJNSnTM
